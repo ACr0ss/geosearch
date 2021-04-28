@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geosearch</string>
+    <string name="error">Algo falló...</string>
+    <string name="no_internet">Esta aplicación necesita conexión a internet para funcionar, compruebe su red e inténtelo de nuevo más tarde por favor</string>
+    <string name="no_gps">Esta aplicación necesita acceder a su localización para funcionar, compruebe su gps e inténtelo de nuevo más tarde por favor</string>
+</resources>
